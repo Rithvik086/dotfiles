@@ -1,0 +1,14 @@
+[/]
+app-title=''
+terminal-title-show-when-single=false
+theme-variant='dark'
+use-tabs=true
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-transparency-percent=16
+cursor-shape='ibeam'
+default-size-columns=80
+font='MesloLGSDZ Nerd Font 12'
+terminal-title=''
+use-system-font=false
+visible-name='Default'

@@ -1,0 +1,7 @@
+#!/bin/bash
+auto-cpufreq --live 
+powertop --auto-tune
+
+
+
+
